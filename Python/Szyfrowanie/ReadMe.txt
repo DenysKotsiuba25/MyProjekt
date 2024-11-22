@@ -1,0 +1,1 @@
+Po uruchomieniu pliku szyfrowania/deszyfrowania w terminalu program poprosi o podanie hasła oraz adresu folderu, pliki w którym  należy zaszyfrować lub deszyfrować. 
