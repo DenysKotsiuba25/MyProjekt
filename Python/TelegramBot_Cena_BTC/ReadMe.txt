@@ -1,0 +1,1 @@
+To jest bot, pokazujący cenę Bitcoin na obecną chwilę. Do pliku auth_data należy wpisać token swojego telegram bota, i po uruchomieniu przy wpisaniu w czat "price" będzie pojawiała się cena BTC 
